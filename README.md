@@ -43,8 +43,6 @@ No Terminal/Console:
 
 <a href="https://github.com/cmarih/sacola-api_IFOOD_DEV_WEEK/blob/master/Sacola%20API%20-%20iFood%20Dev%20Week.postman_collection.json"> 🚀 Collection Sacola API - Postman</a><br>
 
-<img src="https://drive.google.com/file/d/1LqrxRBBcteop2R4mMDkc0jtmTsIRLfhy/view?usp=sharing" alt="Sacola API Swagger UI">
-
 <h3>Tecnologias Utilizadas</h3>
 
 <table>
